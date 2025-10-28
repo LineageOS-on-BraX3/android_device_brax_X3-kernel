@@ -60,7 +60,6 @@ mtk-mmdvfs.ko
 mtk-mmdvfs-debug.ko
 mmqos-common.ko
 mmqos-mt6835.ko
-mmqos_wrapper.ko
 iommu_secure.ko
 iommu_debug.ko
 mtk_iommu.ko
@@ -89,7 +88,6 @@ mtu3.ko
 usb_boost.ko
 mtk-spmi-pmic-adc.ko
 regmap-spmi.ko
-mtk-spmi-pmic-debug.ko
 cqhci.ko
 mtk-mmc-dbg.ko
 mtk-mmc.ko
@@ -111,7 +109,6 @@ spi-mt65xx.ko
 mt6375.ko
 extdev_io_class.ko
 rt5133-regulator.ko
-subpmic-dbg.ko
 mt6377-clkbuf.ko
 clkbuf.ko
 teeperf.ko
